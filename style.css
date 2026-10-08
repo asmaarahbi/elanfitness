@@ -201,6 +201,7 @@ button:focus-visible {
 
 .hero {
   padding: 64px 0 96px;
+  background-color:black;
 }
 
 .hero-contenu {
@@ -533,4 +534,48 @@ button:focus-visible {
   margin-top: 24px;
   font-size: 13px;
   color: #94A3B8;
+}
+
+
+
+.contacterform{
+
+  text-align: center;
+  
+ flex-direction: column;
+  display: flex;
+  
+  padding: 24px;
+  background: #ffffff;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  height: 570px;
+  justify-content: space-between;
+}
+
+#message {
+
+width: 60%;
+
+}
+
+.conteneur-contactus{
+
+  flex-direction: column;
+  display: flex;
+  PADDING: 100PX ;
+
+
+ 
+}
+
+#bottoncontact{
+
+  background-color:  #FF6B2c; 
+    border: 1px solid #FF6B2C;
+    padding: 10px; 
+    border-radius: 12px;
+    padding: 8px;
+     width: 50%;
+   align-items: center;
 }
