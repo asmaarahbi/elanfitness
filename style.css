@@ -16,9 +16,13 @@ body {
   background-color: #F7F8FA;
 }
 
-h1, h2, h3, h4 {
+h2, h3, h4 {
   font-family: 'Poppins', Arial, sans-serif;
   color: #0F1B2D;
+}
+h1 {
+  font-family: 'Poppins', Arial, sans-serif;
+  color:blanchedalmond;
 }
 
 a {
